@@ -1,0 +1,1 @@
+# Ejercicio-Herencia_salarios
