@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1778692224 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\main.cpp
+	<iostream>
+	"Nomina.h"
+	"View.h"
+
+1778692434 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\nomina.cpp
+	"Nomina.h"
+	<iostream>
+	"DesarrolladorJunior.h"
+	"DesarrolladorSenior.h"
+	"LiderTecnico.h"
+	"Tester.h"
+	"View.h"
+
+1778692486 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\nomina.h
+	<vector>
+	"Empleado.h"
+	"View.h"
+
+1778691675 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\desarrolladorjunior.cpp
+	"DesarrolladorJunior.h"
+
+1778691239 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\desarrolladorjunior.h
+	"Empleado.h"
+
+1778691204 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\empleado.h
+	<iostream>
+
+1778691725 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\desarrolladorsenior.cpp
+	"DesarrolladorSenior.h"
+
+1778691257 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\desarrolladorsenior.h
+	"Empleado.h"
+
+1778590353 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\liderestecnicos.cpp
+	"LideresTecnicos.h"
+
+1778591942 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\liderestecnicos.h
+	"Empleado.h"
+
+1778590367 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\testers.cpp
+	"Testers.h"
+
+1778591951 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\testers.h
+	"Empleado.h"
+
+1778692322 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\view.h
+	<iostream>
+	<string>
+	"Empleado.h"
+
+1778691638 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\empleado.cpp
+	"Empleado.h"
+
+1778691858 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\lidertecnico.cpp
+	"LiderTecnico.h"
+
+1778691798 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\lidertecnico.h
+	"Empleado.h"
+
+1778691495 c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\include\tester.h
+	"Empleado.h"
+
+1778691876 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\tester.cpp
+	"Tester.h"
+
+1778692402 source:c:\users\juanp\onedrive\documentos\codeblocks\sistemanomina\src\view.cpp
+	"View.h"
+
