@@ -17,4 +17,8 @@ Una captura de pantalla o bloque de salida de consola donde se vea la nómina pr
 
 El salario calculado para al menos ocho empleados.
 
-![image alt]() 
+![image alt](https://github.com/juanpc2112/Ejercicio-Herencia_salarios/blob/master/Captura%20de%20pantalla%202026-05-13%20191054.png) 
+
+El total de la nómina.
+
+![image alt]()
