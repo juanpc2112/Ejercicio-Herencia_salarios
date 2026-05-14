@@ -11,4 +11,4 @@ El sistema permite gestionar la nómina de distintos tipos de empleados dentro d
 
 #Evidencia de ejecución 
 Una captura de pantalla o bloque de salida de consola donde se vea la nómina procesada.
-![image alt]
+![image alt]https://github.com/juanpc2112/Ejercicio-Herencia_salarios/blob/master/Captura%20de%20pantalla%202026-05-13%20191045.png
